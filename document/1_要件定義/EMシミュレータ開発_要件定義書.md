@@ -9,7 +9,7 @@ GUI画面上に表示された複数の点に対し、混合ガウス分布に�
 混合ガウス分布の計算にはEMアルゴリズムを使用し、解が徐々に収束する様子を画面表示する。
 以下に本ソフトウェアの画面表示イメージを示す。
 
-![image1](https://github.com/fermiumbay/OurBirthplace/blob/master/EMsimulator/document/1_%E8%A6%81%E4%BB%B6%E5%AE%9A%E7%BE%A9/image1.png)
+![](https://github.com/fermiumbay/EMsimulator/blob/master/document/1_%E8%A6%81%E4%BB%B6%E5%AE%9A%E7%BE%A9/image1.png)
 
 画面上をマウスでクリックすると、その座標に点を追加表示することができる。
 点を追加したタイミングで、画面上の全ての点座標に対しEMアルゴリズムを適用、
@@ -31,7 +31,7 @@ EMアルゴリズムによる反復計算の解が収束していく様子を目
 ## 4. システム構成
 本システムは以下の構成とする。
 
-![image2](https://github.com/fermiumbay/OurBirthplace/blob/master/EMsimulator/document/1_%E8%A6%81%E4%BB%B6%E5%AE%9A%E7%BE%A9/image2.png)
+![image2](https://github.com/fermiumbay/EMsimulator/blob/master/document/1_%E8%A6%81%E4%BB%B6%E5%AE%9A%E7%BE%A9/image2.png)
 
 ### 4.1. 画面
 ユーザーのマウスクリックを受け付け、クリックされた点座標を取得する。
